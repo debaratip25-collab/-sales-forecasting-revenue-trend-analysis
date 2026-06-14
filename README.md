@@ -35,9 +35,8 @@ The sales and finance teams needed answers to four core questions:
 
 ```
 
-## 📁 Repository Structure
+## 📁 **Repository Structure**
 
-```
 sales-forecasting-revenue-trend-analysis/
 │
 ├── README.md
@@ -57,11 +56,10 @@ sales-forecasting-revenue-trend-analysis/
 │   └── dashboard 1.png
 │   └── dashboard 2.png
 │   └── dashboard 3.png
-```
 
 ---
 
-## 🗂️ Dataset Description
+## 🗂️ **Dataset Description**
 
 | Property | Details |
 |---|---|
@@ -99,9 +97,9 @@ sales-forecasting-revenue-trend-analysis/
 
 ---
 
-## 📊 Excel Workbook — Sheet Guide
+## 📊 **Excel Workbook — Sheet Guide**
 
-### Dataset File (`Sales_Forecasting_Dataset.xlsx`)
+### Dataset File (`dataset.xlsx`)
 
 | Sheet | Contents |
 |---|---|
@@ -130,7 +128,7 @@ sales-forecasting-revenue-trend-analysis/
 
 ---
 
-## 📈 Key Results
+## 📈 **Key Results**
 
 ### KPI Summary
 
@@ -165,7 +163,7 @@ sales-forecasting-revenue-trend-analysis/
 
 ---
 
-## 💡 Key Insights
+## 💡 **Key Insights**
 
 **1. Q4 Seasonality is Extreme**
 Q4 (Oct–Dec) delivers ₹3.15M — 33.9% of annual revenue. Monthly targets do not reflect this, causing reactive resource strain every Q4.
@@ -184,7 +182,7 @@ Subscription orders show near-zero forecast variance — ideal for financial pla
 
 ---
 
-## 🛠️ Tools & Techniques
+## 🛠️ **Tools & Techniques**
 
 | Category | Details |
 |---|---|
@@ -196,7 +194,7 @@ Subscription orders show near-zero forecast variance — ideal for financial pla
 
 ---
 
-## 📋 Recommendations Summary
+## 📋 **Recommendations Summary**
 
 | # | Priority | Recommendation | Expected Benefit | Timeline |
 |---|---|---|---|---|
@@ -211,7 +209,7 @@ Subscription orders show near-zero forecast variance — ideal for financial pla
 
 ---
 
-## 🗺️ Implementation Roadmap
+## 🗺️ **Implementation Roadmap**
 
 ```
 Q1 2025 — Phase 1: Quick Wins
@@ -237,7 +235,7 @@ Q3 2025 — Phase 3: Automation & Tooling
 
 ---
 
-## 📚 What I Learned
+## 📚 **What I Learned**
 
 - How to structure a complete end-to-end BA project from problem statement to recommendation
 - Applying `FORECAST.LINEAR` for real-world revenue extrapolation
@@ -246,8 +244,6 @@ Q3 2025 — Phase 3: Automation & Tooling
 - How to frame data insights as actionable business recommendations using the SMART framework
 
 ---
-
-## 🤝 Connect
 
 **Prepared by:** Debarati
 **Date:** June 2026
