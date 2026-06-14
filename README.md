@@ -26,6 +26,15 @@ The sales and finance teams needed answers to four core questions:
 
 ---
 
+## 🎯 Dashboard
+
+<img width="1918" height="180" alt="kpi_summary" src="https://github.com/user-attachments/assets/7b0c99a1-9168-484a-942b-4b8045e47389" />
+<img width="1885" height="453" alt="dashboard 1" src="https://github.com/user-attachments/assets/3943f018-010e-4228-9720-889ce58fdd9e" />
+<img width="1918" height="992" alt="dashboard 2" src="https://github.com/user-attachments/assets/b48c68d1-86b8-46ae-8bf8-27e4efcbfc44" />
+<img width="1918" height="993" alt="dashboard 3" src="https://github.com/user-attachments/assets/3a90c6b4-e1e2-4b6b-8729-b939dbadfcba" />
+
+```
+
 ## 📁 Repository Structure
 
 ```
@@ -33,20 +42,21 @@ sales-forecasting-revenue-trend-analysis/
 │
 ├── README.md
 │
-├── dataset/
-│   └── Sales_Forecasting_Dataset.xlsx        ← Raw dataset + 6 analysis sheets
+├── data/
+│   └── dataset.xlsx        ← Raw dataset + 6 analysis sheets
 │
 ├── dashboard/
 │   └── Sales_Forecasting_Dashboard.xlsx      ← Interactive Excel dashboard (8 charts)
 │
 ├── reports/
-│   └── Sales_Forecasting_Recommendations_Report.docx  ← Full business report
+│   └── Sales_Forecasting_Recommendations_Report.pdf  ← Full business report
 │
-├── docs/
-│   └── Sales_Forecasting_Project_Documentation.docx   ← Step-by-step project guide
 │
 └── screenshots/
-    └── (add dashboard screenshots here)
+|   └── kpi_summary.png
+│   └── dashboard 1.png
+│   └── dashboard 2.png
+│   └── dashboard 3.png
 ```
 
 ---
@@ -227,17 +237,6 @@ Q3 2025 — Phase 3: Automation & Tooling
 
 ---
 
-## 🚀 How to Use This Project
-
-1. **Download** `Sales_Forecasting_Dataset.xlsx` from the `/dataset/` folder
-2. **Open** `Sales_Forecasting_Dashboard.xlsx` from the `/dashboard/` folder
-3. **Explore** the 8 charts and 5 KPI cards on the Dashboard tab
-4. **Filter** using the Region Target Achievement mini-table to drill into specific regions
-5. **Read** the `Sales_Forecasting_Recommendations_Report.docx` for full findings and strategy
-6. **Follow** the step-by-step guide in `Sales_Forecasting_Project_Documentation.docx` to replicate the analysis
-
----
-
 ## 📚 What I Learned
 
 - How to structure a complete end-to-end BA project from problem statement to recommendation
@@ -252,7 +251,6 @@ Q3 2025 — Phase 3: Automation & Tooling
 
 **Prepared by:** Debarati
 **Date:** June 2026
-**LinkedIn:** [your-linkedin-url]
 
 ---
 
