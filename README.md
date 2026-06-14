@@ -33,7 +33,7 @@ The sales and finance teams needed answers to four core questions:
 <img width="1918" height="992" alt="dashboard 2" src="https://github.com/user-attachments/assets/b48c68d1-86b8-46ae-8bf8-27e4efcbfc44" />
 <img width="1918" height="993" alt="dashboard 3" src="https://github.com/user-attachments/assets/3a90c6b4-e1e2-4b6b-8729-b939dbadfcba" />
 
-```
+---
 
 ## 📁 Repository Structure
 
