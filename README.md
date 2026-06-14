@@ -35,7 +35,7 @@ The sales and finance teams needed answers to four core questions:
 
 ```
 
-## 📁 **Repository Structure**
+## 📁 Repository Structure
 
 sales-forecasting-revenue-trend-analysis/
 │
