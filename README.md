@@ -239,7 +239,6 @@ Q3 2025 — Phase 3: Automation & Tooling
 ## 📚 **What I Learned**
 
 - How to structure a complete end-to-end BA project from problem statement to recommendation
-- Applying `FORECAST.LINEAR` for real-world revenue extrapolation
 - How to build a professional Excel dashboard that communicates to non-technical stakeholders
 - The difference between high-revenue and high-profit segments — and why it matters strategically
 - How to frame data insights as actionable business recommendations using the SMART framework
