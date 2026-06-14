@@ -37,6 +37,7 @@ The sales and finance teams needed answers to four core questions:
 
 ## 📁 Repository Structure
 
+```
 sales-forecasting-revenue-trend-analysis/
 │
 ├── README.md
@@ -56,7 +57,7 @@ sales-forecasting-revenue-trend-analysis/
 │   └── dashboard 1.png
 │   └── dashboard 2.png
 │   └── dashboard 3.png
-
+```
 ---
 
 ## 🗂️ **Dataset Description**
